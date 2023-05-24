@@ -2,6 +2,10 @@
 
 SuperApp é uma aplicação React Native que contém vários MiniApps. Este repositório utiliza a arquitetura de Monorepo para gerenciar esses MiniApps.
 
+
+[Aqui está o link para o PDF](./readme/SuperApp.pdf)
+
+
 ## Estrutura e Arquitetura
 
 Este SuperApp é estruturado como um Monorepo, o que significa que todos os MiniApps são mantidos em um único repositório Git, mas são projetados para funcionar de forma independente. Este projeto utiliza Nome do gerenciador de pacotes, como Lerna, Yarn Workspaces, NX Monorepo ou outro para gerenciar o Monorepo.
